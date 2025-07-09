@@ -1,0 +1,124 @@
+*{
+    border:border-box;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* navbar */
+/* box1 */
+.navbar{
+    height:4rem;
+    width:100%;
+    background-color:#0F1111;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.navlogo{
+    height:60px;
+    width:100px;
+}
+.logo{
+    background-image: url("/images/amazon_logo.png");
+    background-size: cover;
+    height:50px;
+    width:100%;
+}
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+}
+/* box2 */
+.add1{
+    color:#cccccc;
+    margin:0;
+    margin-left:1rem;
+    font-size: 0.75rem;
+}
+.add2{
+    color:#ffffff;
+    margin:0;
+    margin-left:0.2rem;
+    font-size: 1rem;
+    font-weight:700;
+}
+.add{
+    display:flex;
+    margin-left:0.4rem;
+    align-items:center;
+
+}
+/* box3 */
+.option{
+    background-color:#f3f3f3;
+    color:rgba(128, 128, 128, 0.49);
+    width:4.3rem;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    color:black;
+    font-size:0.7rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchicon {
+    background-color: #febd68;
+    width: 3.6rem;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.searchicon i{
+    color: black;
+    font-size: 1.4rem; 
+}
+.search{
+    display:flex;
+    height:2.5rem;
+    width:45rem;
+    border:none;
+}
+.searchbar{
+    width:100%;
+    font-size:1rem;
+    color:black;
+}
+
+.search:hover{
+    border: 3px solid #febd68;
+}
+/* box4 */
+.signin{
+    font-size: 0.75rem;
+    margin: 0px;
+}
+.acc{
+    font-size: 1 rem;
+    font-weight:700;
+}
+/* box5 */
+.returns{
+    font-size: 0.75rem;
+    margin: 0px;
+}
+.orders{
+    font-size: 1 rem;
+    font-weight:700;
+}
+/* box6 */
+.cartsec{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.cart i{
+    font-size: 1.8rem;
+}
+
+.carttext{
+    font-size: 1 rem;
+}
