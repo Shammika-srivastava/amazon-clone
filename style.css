@@ -143,4 +143,30 @@
 .all{
     margin:0.3rem;
 }
+/* heropage */
+.heropage{
+    height:22rem;
+    background-image: url("/images/hero_image.jpg");
+    background-size: cover;
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+}
+.herotext{
+    height:2rem;
+    background-color:white;
+    width:85%;
+    margin-bottom:20px;
+}
+.text{
+    font-size:0.85rem;
+    text-align:center;
+}
+.herotext p{
+    color:black;
+}
+.text a{
+    color:#007185;
+}
+
 
