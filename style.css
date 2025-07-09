@@ -122,3 +122,25 @@
 .carttext{
     font-size: 1 rem;
 }
+/* panel */
+
+/* box1 */
+.panel{
+    background-color: #222f3d;
+    height:3rem;
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.menuicon i{
+    font-size:1rem;
+    display:flex;
+    align-items:center;
+}
+.menuicon{
+    display:flex;
+}
+.all{
+    margin:0.3rem;
+}
+
