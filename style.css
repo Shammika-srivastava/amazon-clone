@@ -168,5 +168,239 @@
 .text a{
     color:#007185;
 }
+/* shop section */
+.shopsection{
+    height:62rem;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    background-color: #e2e7e6;
+    align-content:center;
+}
+/* box1 */
+.box1{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.cloths{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box1img{
+    height:75%;
+    background-image: url("/images/box1_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box2 */
+.box2{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.health{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box2img{
+    height:75%;
+    background-image: url("/images/box2_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box3 */
+.box3{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.furnitures{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box3img{
+    height:75%;
+    background-image: url("/images/box3_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box4 */
+.box4{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.mobiles{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box4img{
+    height:75%;
+    background-image: url("/images/box4_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box5 */
+.box5{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.makeups{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box5img{
+    height:75%;
+    background-image: url("/images/box5_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box6 */
+.box6{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.animal{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box6img{
+    height:75%;
+    background-image: url("/images/box6_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box7 */
+.box7{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.art{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box7img{
+    height:75%;
+    background-image: url("/images/box7_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+/* box8 */
+.box8{
+    height:27rem;
+    width:20%;
+    margin:15px;
+    background-color: white;
+    color:black;
+    padding: 20px 15px 15px 15px;
+}
+.women{
+    height:2rem;
+    color:black;
+    font-size:1.2rem;
+    font-weight:700;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+.box8img{
+    height:75%;
+    background-image: url("/images/box8_image.jpg");
+    background-size:cover;
+    margin-bottom:3rem;
+}
+.seemore{
+    color:#007185;
+    font-size: 0.9rem;
+}
+
 
 
